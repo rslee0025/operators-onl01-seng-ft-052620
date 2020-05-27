@@ -4,6 +4,8 @@ if speed == unsafe
 else
   return "safe"
 end
+end
+
 
 
 
