@@ -12,7 +12,11 @@ else
   return "false"
 end
 
-if speed ==
+if speed > 40 && speed < 60
+  return "false"
+else
+  return "true"
+end  
 
 
 
