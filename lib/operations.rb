@@ -1,11 +1,11 @@
 def unsafe?(speed)
-speed = unsafe
-
 if speed == unsafe
   return "true"
 else
   return "false"
 end
+
+if speed
 
 end
 
